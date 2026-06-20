@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/crawlsnap/crawlsnap-cli/releases/download/v0.1.0/crawlsnap_0.1.0_windows_amd64.zip",
+            "bin": [
+                "crawlsnap.exe"
+            ],
+            "hash": "3b7811a563f6b67ce72c5edffb66841c3f41c66092cfad5762fe4a443670e351"
+        },
+        "arm64": {
+            "url": "https://github.com/crawlsnap/crawlsnap-cli/releases/download/v0.1.0/crawlsnap_0.1.0_windows_arm64.zip",
+            "bin": [
+                "crawlsnap.exe"
+            ],
+            "hash": "35ab89a959657216d4d48ff02838f730e43a27beeaf473e0f78ae70c04266305"
+        }
+    },
+    "homepage": "https://crawlsnap.com",
+    "license": "MIT",
+    "description": "Official CLI for the CrawlSnap data intelligence platform"
+}
