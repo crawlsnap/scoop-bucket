@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/crawlsnap/crawlsnap-cli/releases/download/v0.1.1/crawlsnap_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/crawlsnap/crawlsnap-cli/releases/download/v0.2.0/crawlsnap_0.2.0_windows_amd64.zip",
             "bin": [
                 "crawlsnap.exe"
             ],
-            "hash": "c124074007c92ac7361ded605c9496f97617061b135d4e653a51a10c2fcf4b12"
+            "hash": "c88045b37e220df13868d6c64b5aa58e2738c30f5eda72cbb1ae5d7a6f4f2bb5"
         },
         "arm64": {
-            "url": "https://github.com/crawlsnap/crawlsnap-cli/releases/download/v0.1.1/crawlsnap_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/crawlsnap/crawlsnap-cli/releases/download/v0.2.0/crawlsnap_0.2.0_windows_arm64.zip",
             "bin": [
                 "crawlsnap.exe"
             ],
-            "hash": "0c5afcdcb6876eb64142ec3b812858cc4a2a177131eaad939f05c50be987291c"
+            "hash": "d9016cc6a6d50d92b400883d9b74fb95bf2cb52f99a2cb9c7782c0e367f3d39d"
         }
     },
     "homepage": "https://crawlsnap.com",
